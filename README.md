@@ -1,2 +1,2 @@
 # Bids_project
-Bids portfolio project
+Bids analysis model selection step python codes.
